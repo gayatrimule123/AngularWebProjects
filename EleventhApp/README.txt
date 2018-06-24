@@ -1,0 +1,1 @@
+Three components in app
