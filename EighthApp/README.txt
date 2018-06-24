@@ -1,0 +1,1 @@
+Static text with color using inline html and css
