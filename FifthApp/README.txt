@@ -1,0 +1,2 @@
+
+Application with Inline header
